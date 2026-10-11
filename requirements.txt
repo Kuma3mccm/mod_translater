@@ -1,0 +1,7 @@
+streamlit>=1.33.0
+deep-translator>=1.11.4
+translators>=5.9.0
+deepl>=1.18.0
+google-genai>=1.0.0
+openai>=1.30.0
+pandas>=2.0.0
